@@ -1,4 +1,4 @@
-Recently, I built a GenAI project that converts natural language into SQL, allowing anyone to ask questions about a database without writing a single line of code.
+I built a GenAI project that converts natural language into SQL, allowing anyone to ask questions about a database without writing a single line of code.
 
 Imagine typing: How many distinct movies are in the database?
 and instantly getting the answer, plus the exact SQL query behind it.
